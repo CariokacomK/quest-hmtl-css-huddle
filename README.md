@@ -22,7 +22,7 @@ Excercício de HTML e CSS do FrontEnd Mentor - huddle page - realizado para a QU
 
 <br>
 <img src=./design/layout.png>
-<p style="text-align: center;">(Meu primeiro rascunho para o Layout)</p>
+<p align="center">(Meu primeiro rascunho para o Layout)</p>
 
 <br>
 
@@ -57,5 +57,5 @@ Contribuição: Fofura e Tecladas aleatorias durante o código:
 
 - Paulo
 
-<img src="./src/images/paulo.png" style= "width:40%; border-radius:50%;">
+<img src="./src/images/paulo.png" style="width:40%; border-radius:50%;">
 
