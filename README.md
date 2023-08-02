@@ -49,7 +49,7 @@ Excercício de HTML e CSS do FrontEnd Mentor - huddle page - realizado para a QU
 
 Contribuição: Código
 
-- [@CariokacomK] (https://github.com/CariokacomK)
+- [@CariokacomK](https://github.com/CariokacomK)
 
 <br>
 
@@ -57,5 +57,5 @@ Contribuição: Fofura e Tecladas aleatorias durante o código:
 
 - Paulo
 
-<img src="./src/images/paulo.png" style="border-radius:50%;" width = "40%">
+<img src="./src/images/paulo.png">
 
