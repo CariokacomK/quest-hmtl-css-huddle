@@ -57,5 +57,5 @@ Contribuição: Fofura e Tecladas aleatorias durante o código:
 
 - Paulo
 
-<img src="./src/images/paulo.png" style="width:40%; border-radius:50%;">
+<img src="./src/images/paulo.png" style="border-radius:50%;" width = "40%">
 
