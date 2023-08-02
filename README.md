@@ -22,7 +22,8 @@ Excercício de HTML e CSS do FrontEnd Mentor - huddle page - realizado para a QU
 
 <br>
 <img src=./design/layout.png>
-<div style="text-align: center;">(Meu primeiro rascunho para o Layout)</div>
+<p style="text-align: center;">(Meu primeiro rascunho para o Layout)</p>
+
 <br>
 
 - Outra dificuldade que encontrei pelo caminho foi em relação a poscionamento de itens, porém, após alguns minutos "codando" me acostumei e o projeto fluiu normalmente
