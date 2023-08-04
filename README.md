@@ -1,5 +1,5 @@
 ## 🚀 Quest HMTL e CSS
-Excercício de HTML e CSS do FrontEnd Mentor - huddle page - realizado para a QUEST do curso DevQuest
+Exercício de HTML e CSS do FrontEnd Mentor - huddle page - realizado para a QUEST do curso DevQuest
 
 
 ## 🗺 Visão Geral do Projeto
@@ -14,11 +14,11 @@ Excercício de HTML e CSS do FrontEnd Mentor - huddle page - realizado para a QU
 
 ## 📝 Proposta do Projeto
 
-- A proposta deste projeto era recriar da maneira mais parecida possivel a página de uma marca ficticia, utilizando as tecnologias HMTL e CSS
+- A proposta deste projeto era recriar da maneira mais parecida possível a página de uma marca fictícia, utilizando as tecnologias HTML e CSS
 
 ## 🗻 Desafios no Caminho
 
-- Por se tratar do meu primeiro projeto feito inicialemente do zero tive muita dificuldade para começar, fazia perguntas como "Por onde começo, oque faço, ou oque escrevo" mas, seguindo as dicas, consegui me concentrar e destrinchar a página em etapas fazendo assim um planejamento gradual de como funcionaria a construção da página.
+- Por se tratar do meu primeiro projeto feito inicialmente do zero tive muita dificuldade para começar, fazia perguntas como "Por onde começo, oque faço, ou oque escrevo", mas, seguindo as dicas consegui me concentrar e destrinchar a página em etapas, fazendo assim, um planejamento gradual de como funcionaria a construção da página.
 
 <br>
 <img src=./design/layout.png>
@@ -26,11 +26,11 @@ Excercício de HTML e CSS do FrontEnd Mentor - huddle page - realizado para a QU
 
 <br>
 
-- Outra dificuldade que encontrei pelo caminho foi em relação a poscionamento de itens, porém, após alguns minutos "codando" me acostumei e o projeto fluiu normalmente
+- Outra dificuldade que encontrei pelo caminho foi em relação a posicionamento de itens, porém, após alguns minutos "codando" me acostumei e o projeto fluiu normalmente
 
-- Falando especificamente de clean code, tentei revisar ao máximo meu código para deixa-lo o mais limpo e reduzido possivel 
+- Falando especificamente de clean code, tentei revisar ao máximo meu código para deixa-lo mais limpo e reduzido possível 
 
-- Por ultimo mas não menos importante (inclusive é muito importante) o desafio que me restava era somente a tão temida responsividade, mas felizmente assim como os outros desafios não demorei muito para entender o ponto principal do problema e resolve-lo por partes
+- Por último, mas não menos importante (inclusive é muito importante) o desafio que me restava era somente a tão temida responsividade, mas felizmente assim como os outros desafios, não demorei muito para entender o ponto principal do problema e resolve-lo por partes
 
 ## 🔧 Ferramentas Utilizadas
 
@@ -43,7 +43,7 @@ Excercício de HTML e CSS do FrontEnd Mentor - huddle page - realizado para a QU
 
 ## 🎯 Considerações Finais
 
-- O projeto foi muito desafiador no começo pelo motivo de ser aprimeira interação com uma produção feita essencialmente do zero, mas acredito que alcancei a proposta e o objetivo, acrescentando a minha expêriencia e curriculo como se portar diante de um projeto.
+- O projeto foi muito desafiador no começo pelo motivo de ser a primeira interação com uma produção feita essencialmente do zero, mas acredito que alcancei a proposta e o objetivo, acrescentando a minha experiência e currículo como se portar diante de um projeto.
 
 ## 👥 Autores
 
